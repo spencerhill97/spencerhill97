@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spencerhill97
-- 🌱 I’m currently learning HTML, CSS, Javascript, & Python
+- 🌱 I’m currently learning HTML, CSS, Javascript
 - 📫 How to reach me - email: spencerahill97@gmail.com
 
 <!---
